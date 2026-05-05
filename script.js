@@ -3,7 +3,7 @@ const description = document.getElementById('description');
 const input = document.getElementById('title');
 const todoList = document.getElementById('todo-list');
 
-const API_URL = 'http://localhost:3000/todos';
+const API_URL = 'https://todoapp-backend-1thm.onrender.com/todos';
 
 
 // =========================
